@@ -3,7 +3,7 @@ package algorithm;
 import java.util.Arrays;
 
 /**
- * toDo : linkedList ¸¸µéÂ÷·Ê
+ * toDo : linkedList ë§Œë“¤ì°¨ë¡€
  * @author jiyou.park
  *
  */
