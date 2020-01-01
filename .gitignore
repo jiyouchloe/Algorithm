@@ -6,9 +6,8 @@ bin/
 *.properties
 *.project
 .metadata/
-!/.idea/
+.idea/
 target/classes/algorithm/secureKeyTest.html
 target/generated-sources/
 target/classes/META-INF/
 target/generated-test-sources/
-
